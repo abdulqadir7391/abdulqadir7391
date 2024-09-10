@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadir7391&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadir7391" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Web Development and Data Analysis**
 
 - 📫 How to reach me **abdulqadir7391@gmail.com**
 
