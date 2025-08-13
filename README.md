@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **abdulqadir7391@gmail.com**
 
-- ⚡ Fun fact **Exploring new datasets or perfecting data visualizations with a cup of chai in hand is how time is spent when not coding.**
+- ⚡ Fun fact: Exploring new datasets or perfecting data visualizations with a cup of chai in hand is how time is spent when not coding.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
