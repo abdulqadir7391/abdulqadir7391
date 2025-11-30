@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abdul Qadir</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Turning data into clarity — one project at a time. From India.</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*KnV1cBSw-kWyh7Y6XEEzrA.jpeg">
 
