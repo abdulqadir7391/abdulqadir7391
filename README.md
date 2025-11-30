@@ -6,8 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadir7391&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadir7391" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Data Analysis**
-
+- 🌱 Exploring the world of data, with interests in **analytics**, **machine learning**, and **artificial intelligence**.
+  
 - 📫 How to reach me **abdulqadir7391@gmail.com**
 
 - ⚡ Fun fact: Exploring new datasets or perfecting data visualizations with a cup of chai in hand is how time is spent when not coding.
